@@ -2,7 +2,7 @@
 
 This repository consists of various software licenses formatted as [Markdown](https://en.wikipedia.org/wiki/Markdown) and [reStructuredText](https://en.wikipedia.org/wiki/ReStructuredText). All licenses can be found in their respective folders within the `licenses/` top level directory.
 
-Don't see your favorite license in the repository? Open an Issue and I'll get right on it. If you already have a formatted license file, feel free to open a Pull Request.
+Don't see your favorite license in the repository? [Open an Issue](https://github.com/frewsxcv/formatted-licenses/issues/new) and I'll get right on it. If you already have a formatted license file, feel free to open a Pull Request.
 
 ## License
 
