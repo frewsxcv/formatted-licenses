@@ -6,7 +6,7 @@ This repository contains various software licenses formatted as [Markdown](https
 
 ## Licenses
 
-* [MIT](licenses/mit/license-mit.txt)
+* [MIT](licenses/mit/license-mit.md)
 
 ## Licenses WIP
 
