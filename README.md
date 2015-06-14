@@ -4,6 +4,12 @@
 
 This repository contains various software licenses formatted as [Markdown](https://en.wikipedia.org/wiki/Markdown).
 
+## Licenses
+
+* [MIT](licenses/mit/license-mit.txt)
+
+## Licenses WIP
+
 * Apache
  * [Apache, version 2]() [WIP]
 * BSD
@@ -14,8 +20,6 @@ This repository contains various software licenses formatted as [Markdown](https
 * GNU
  * [GPL]() [WIP]
  * [LGPL]() [WIP]
-* MIT
- * [MIT]() [WIP]
 * Mozilla
  * [MPL, version 2]() [WIP]
 
