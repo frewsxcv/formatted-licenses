@@ -25,7 +25,7 @@ This repository contains various software licenses formatted as [Markdown](https
 
 ## Why did you do this?
 
-TODO
+Licenses are not just files that take up space in the root directory of a project. They are meant to be **read** and **understood** by humans (not computers). Because some licenses can be fairly lengthy, it can get tiring to stare at a wall of fixed-width characters. formatted-licenses is an attempt to increase the user experience of reading licenses by adding formatting and other helpful markup.
 
 ## You're missing license
 
