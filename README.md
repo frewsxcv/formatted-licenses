@@ -37,6 +37,8 @@ If you want these licenses formatted in a format other than Markdown, I recommen
 
 ## Guidelines
 
+TODO: Mention why plaintext files are in the tree (for diff purposes)
+
 * Don't wrap lines
 * Use smart quotes: `“`, `”`, `‘`, `’`
 * Don't modify code blocks
